@@ -423,7 +423,7 @@ img {
       #hero h1{
         display: block;
         width: fit-content;
-        font-size: 2.8rem;
+        font-size: 3.8rem;
         position: relative;
         color: white;  
         margin-bottom: 1.2em;
@@ -431,7 +431,7 @@ img {
     .hero-container p{
       display: block;
       width: fit-content;
-      font-size: 2.9vw;
+      font-size: 3.9vw;
       position: relative;
       color: white;  
   }
